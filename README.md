@@ -20,7 +20,7 @@
 				</scipt>
 			</html>
 		now, you can draw anything inside the drawclass.
-![image](https://user-images.githubusercontent.com/48266115/180958987-d2364c5e-b890-402a-b5e7-66c3d0224674.png)
+![image](https://user-images.githubusercontent.com/48266115/180960754-f84066d2-974d-49e8-b3f5-0151329e5974.png)
 <br>
 	
 		the parameter of the drawInit function is object type.
