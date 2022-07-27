@@ -3,7 +3,9 @@
 		please include .js and .css file in your html code
 		Example =>
 			<script type="text/javascript" src="./js/draw.js"></script>
+			<script type="text/javascript" src="./js/fab.js"></script>
 			<link rel="stylesheet" type="text/css" id="theme" href="./css/draw.css"/>
+			<link rel="stylesheet" type="text/css" id="theme" href="./css/fab.css"/>
 		and
 		write code your HTML
 			<div class="draw"></draw>
@@ -27,6 +29,5 @@
 		the key-value pair of the parameter is as follows:
 			{shape?:'square'}
 
-		more options and modules will be added.
-
+		more options and modules will be added.	
 			
